@@ -29,6 +29,8 @@ The resulting dataframes can be found in the folder *topic_sentiment_pickles* .
    1. phaseX_labeling_boundary_nodes.py 
    2. phaseX_labeling_boundary_edges.py
    3. phaseX_boundary_score_calculation.py
+   
+   The resulting files can be found in *boundary_labeled_graphs*
 
 ## Arabic dataset 
 This dataset covers tweets from the phase defined above as phase 3. The Arabic dataset can be found in *dataset/arabic*
@@ -44,3 +46,5 @@ The following is the sequence to follow for recreating the project for the Arabi
    1. arabic_labeling_boundary_nodes.py 
    2. arabic_labeling_boundary_edges.py
    3. arabic_boundary_score_calculation.py
+   
+   The resulting files can be found in *boundary_labeled_graphs*
