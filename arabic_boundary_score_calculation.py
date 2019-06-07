@@ -1,6 +1,6 @@
 from igraph import *
 import pandas as pd
-g = load("boundary_labeled_graphs/arabic_boundary_edges.graphmll")
+g = load("boundary_labeled_graphs/arabic_boundary_edges.graphml")
 vs = g.vs.select(topic_eq = "None")
 sum_node_values = 0
 sum_boundary_nodes = 0
