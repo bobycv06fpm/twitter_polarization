@@ -41,7 +41,9 @@ The following is the sequence to follow for recreating the project for the Arabi
    2. arabic_replies_graph.py
    3. arabic_tweets_graph.py
    4. arabic_full_graph.py
+   
   The resulting graphs can be found in the *full_graph_arabic* folder
+  
 3. To label boundary nodes and edges and get the boundary score, the following files should be run in the order specified below:
    1. arabic_labeling_boundary_nodes.py 
    2. arabic_labeling_boundary_edges.py
